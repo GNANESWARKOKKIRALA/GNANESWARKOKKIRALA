@@ -3,10 +3,10 @@
 <h1 align="center">
 👋 Hi, I'm Gnaneswar Kokkirala
 </h1>
-🐍 Aspiring Python Developer | AI & LLM Enthusiast | Backend Learner
-<h3 align="center">
 
-</h3>
+<p align="center">
+🐍 Aspiring Python Developer | AI & LLM Enthusiast | Backend Learner
+</p>
 
 <p align="center">
 🚀 Building Intelligent AI Applications using Python, LLMs, and Scalable APIs
@@ -43,6 +43,7 @@ Currently focused on mastering **AI engineering, APIs, and system design fundame
 ## 🚀 PROJECTS
 
 ### 🤖 AI RAG Chatbot (Flagship Project)
+
 Built a **production-style RAG system** for intelligent document Q&A.
 
 - Implemented embedding-based semantic search using vector databases  
@@ -55,6 +56,7 @@ Built a **production-style RAG system** for intelligent document Q&A.
 ---
 
 ### 🏋️ AI-Powered Fitness Intelligence Platform
+
 Developed an AI-driven fitness system that generates personalized plans.
 
 - AI-based diet & workout recommendation engine  
@@ -66,6 +68,7 @@ Developed an AI-driven fitness system that generates personalized plans.
 ---
 
 ### 🎨 AirCanvas – Gesture Controlled AI Whiteboard
+
 Built a **computer vision-based touchless drawing system**.
 
 - Real-time hand tracking using MediaPipe  
