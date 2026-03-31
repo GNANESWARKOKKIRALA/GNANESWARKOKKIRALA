@@ -3,9 +3,9 @@
 <h1 align="center">
 👋 Hi, I'm Gnaneswar Kokkirala
 </h1>
-
+🐍 Aspiring Python Developer | AI & LLM Enthusiast | Backend Learner
 <h3 align="center">
-🐍 Python Developer | AI & LLM Engineer | Backend Enthusiast
+
 </h3>
 
 <p align="center">
