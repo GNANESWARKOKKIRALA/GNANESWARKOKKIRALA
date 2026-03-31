@@ -1,82 +1,97 @@
-<!-- ================= DARK PROFILE ================= -->
+<!-- ================= DARK WOW PROFILE ================= -->
 
 <h1 align="center">
 👋 Hi, I'm Gnaneswar Kokkirala
 </h1>
 
 <h3 align="center">
-🐍 Python Developer | AI & Backend Enthusiast
+🐍 Python Developer | AI & LLM Engineer | Backend Enthusiast
 </h3>
 
 <p align="center">
-🚀 Building AI Applications using Python, LLMs & APIs
+🚀 Building Intelligent AI Applications using Python, LLMs, and Scalable APIs
 </p>
 
 ---
 
-## 🌑 ABOUT ME
+## 🌟 ABOUT ME
 
-💻 Python Developer passionate about AI & real-world applications  
-📚 B.Tech Final Year (2026 Passout)  
-⚙️ Interested in LLMs, RAG systems & backend development  
-🎯 Goal: Become a strong software engineer in product-based company  
-🔥 Focused on building impactful AI projects  
+Aspiring Software Engineer with strong foundations in **Python, SQL, and Artificial Intelligence**.  
+Experienced in building **LLM-powered applications using RAG architecture** and real-time AI systems.
+
+Passionate about designing **scalable backend systems, intelligent AI solutions, and real-world products**.  
+Currently focused on mastering **AI engineering, APIs, and system design fundamentals**.
+
+🎯 Goal: Become a top-tier software engineer in a product-based company  
+🔥 Passion: AI + Backend + Problem Solving + Clean Architecture  
 
 ---
 
-## 🔧 SKILLS
+## ⚙️ SKILLS
 
-- 🐍 Python  
-- 🗄️ SQL  
-- 🤖 AI / LLM Integration  
-- 🔗 APIs (Groq / REST APIs)  
-- 📊 Streamlit  
-- 📦 Vector DB (ChromaDB basics)
+- 🐍 Python (Core + Advanced + Projects)  
+- 🗄️ SQL (Database Design & Queries)  
+- 🤖 AI / LLM Integration (Groq, OpenAI APIs)  
+- 📚 RAG Systems (Retrieval-Augmented Generation)  
+- 📦 Vector Databases (ChromaDB)  
+- 🔗 REST APIs (Flask Basics)  
+- 📊 Streamlit (AI Web Apps)  
+- 🔧 Git & GitHub  
 
 ---
 
 ## 🚀 PROJECTS
 
-### 🤖 AI RAG Chatbot
-- Built RAG-based document Q&A system using embeddings and vector search  
+### 🤖 AI RAG Chatbot (Flagship Project)
+Built a **production-style RAG system** for intelligent document Q&A.
+
+- Implemented embedding-based semantic search using vector databases  
 - Integrated **LLaMA 3.3 70B via Groq API** for context-aware responses  
-- Implemented semantic retrieval and real-time chat using **SQLite**
+- Designed real-time conversational AI with memory using SQLite  
+- Optimized retrieval pipeline for accurate and fast responses  
 
 **Tech Stack:** Python, Streamlit, ChromaDB, Groq API, LLaMA 3.3, SQLite, Sentence-Transformers  
 
 ---
 
-### 🏋️ AI-Powered Fitness Web App
-- Developed AI fitness platform with personalized diet & workout plans  
-- Integrated LLaMA 3.3 for recommendations  
-- Added authentication and progress tracking system  
+### 🏋️ AI-Powered Fitness Intelligence Platform
+Developed an AI-driven fitness system that generates personalized plans.
 
-**Tech Stack:** Python, Streamlit, Groq API, LLaMA 3.3, SQL Server, bcrypt, Pandas, Plotly, REST API  
+- AI-based diet & workout recommendation engine  
+- User authentication and progress tracking system  
+- Integrated LLM-based personalization for recommendations  
 
----
-
-### 🎨 AirCanvas – Hand Gesture Whiteboard
-- Built real-time virtual drawing app using hand gestures  
-- Enabled touch-free drawing using webcam input  
-
-**Tech Stack:** Python, OpenCV, MediaPipe, NumPy, CV2  
+**Tech Stack:** Python, Streamlit, Groq API, LLaMA 3.3, SQL Server, bcrypt, Pandas, Plotly  
 
 ---
 
-## 🎓 CERTIFICATIONS
+### 🎨 AirCanvas – Gesture Controlled AI Whiteboard
+Built a **computer vision-based touchless drawing system**.
 
-- 🏅 Python Programming – IBM (Cognitive Class)  
-- 🏅 Python – Cisco Networking Academy  
+- Real-time hand tracking using MediaPipe  
+- Gesture-based drawing using OpenCV  
+- Fully interactive webcam-controlled canvas  
+
+**Tech Stack:** Python, OpenCV, MediaPipe, NumPy  
 
 ---
 
-## 📊 GITHUB STATS
+## 🏆 CERTIFICATIONS
+
+- 🥇 Python Programming – IBM (Cognitive Class)  
+- 🥇 Python – Cisco Networking Academy  
+
+---
+
+## 📊 GITHUB ANALYTICS
 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=GNANESWARKOKKIRALA&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GNANESWARKOKKIRALA&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNANESWARKOKKIRALA&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -90,10 +105,10 @@
 
 ---
 
-## ⚡ QUOTE
+## ⚡ FINAL QUOTE
 
 <p align="center">
-🔥 "Build, learn, improve, repeat." 🔥
+🔥 "Build systems. Solve problems. Create impact." 🔥
 </p>
 
 <!-- ================= END ================= -->
