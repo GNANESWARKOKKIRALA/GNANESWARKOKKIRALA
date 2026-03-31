@@ -29,7 +29,7 @@ Currently focused on mastering **AI engineering, APIs, and system design fundame
 
 ## ⚙️ SKILLS
 
-- 🐍 Python (Core + Advanced + Projects)  
+- 🐍 Python (Core, Advanced, Projects)  
 - 🗄️ SQL (Database Design & Queries)  
 - 🤖 AI / LLM Integration (Groq, OpenAI APIs)  
 - 📚 RAG Systems (Retrieval-Augmented Generation)  
@@ -44,18 +44,20 @@ Currently focused on mastering **AI engineering, APIs, and system design fundame
 
 ### 🤖 AI RAG Chatbot (Flagship Project)
 
-Built a **production-style RAG system** for intelligent document Q&A.
+Built RAG-based document Q&A system using embeddings and vector search; integrated LLaMA 3.3 70B via Groq
+API for context-aware responses; implemented semantic retrieval and real-time chat (SQLite).
 
 - Implemented embedding-based semantic search using vector databases  
 - Integrated **LLaMA 3.3 70B via Groq API** for context-aware responses  
 - Designed real-time conversational AI with memory using SQLite  
+- Built end-to-end AI system with semantic search + LLM response generation  
 - Optimized retrieval pipeline for accurate and fast responses  
 
 **Tech Stack:** Python, Streamlit, ChromaDB, Groq API, LLaMA 3.3, SQLite, Sentence-Transformers  
 
 ---
 
-### 🏋️ AI-Powered Fitness Intelligence Platform
+### 🏋️  AI-Powered Fitness Web Application
 
 Developed an AI-driven fitness system that generates personalized plans.
 
@@ -67,9 +69,9 @@ Developed an AI-driven fitness system that generates personalized plans.
 
 ---
 
-### 🎨 AirCanvas – Gesture Controlled AI Whiteboard
+### 🎨  AirCanvas – Hand Gesture Controlled Virtual Whiteboard
 
-Built a **computer vision-based touchless drawing system**.
+Developed gesture-based virtual canvas enabling real-time, touch-free drawing using OpenCV and MediaPipe.
 
 - Real-time hand tracking using MediaPipe  
 - Gesture-based drawing using OpenCV  
