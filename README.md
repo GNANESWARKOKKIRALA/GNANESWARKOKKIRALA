@@ -34,7 +34,6 @@ Currently focused on mastering **AI engineering, APIs, and system design fundame
 - 🤖 AI / LLM Integration (Groq, OpenAI APIs)  
 - 📚 RAG Systems (Retrieval-Augmented Generation)  
 - 📦 Vector Databases (ChromaDB)  
-- 🔗 REST APIs (Flask Basics)  
 - 📊 Streamlit (AI Web Apps)  
 - 🔧 Git & GitHub  
 
