@@ -83,22 +83,8 @@ Developed gesture-based virtual canvas enabling real-time, touch-free drawing us
 ## 🏆 CERTIFICATIONS
 
 - 🥇 Python Programming – IBM (Cognitive Class)  
-- 🥇 Python – Cisco Networking Academy  
-
----
-
-## 📊 GITHUB ANALYTICS
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GNANESWARKOKKIRALA&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GNANESWARKOKKIRALA&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNANESWARKOKKIRALA&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
+- 🥇 Python – Cisco Networking Academy
+  
 ---
 
 ## 🌐 CONNECT WITH ME
