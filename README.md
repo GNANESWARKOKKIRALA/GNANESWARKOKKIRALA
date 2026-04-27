@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-🐍 Aspiring Python Developer | Generative Ai | Backend Learner
+🐍 Aspiring Python Developer | Generative AI | Backend Learner
 </p>
 
 <p align="center">
