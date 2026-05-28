@@ -15,7 +15,9 @@
 ---
 # 🌌 ABOUT ME
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center">
 
 👨‍💻 **GNANESWAR KOKKIRALA**
 
@@ -27,7 +29,9 @@
 📚 Exploring AI/ML, APIs, Vector Databases & Backend Systems  
 🎯 Goal: Become a top-tier software engineer in product-based companies  
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
