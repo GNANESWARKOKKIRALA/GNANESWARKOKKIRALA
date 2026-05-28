@@ -12,10 +12,15 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=GENERATIVE+AI+ENGINEER;RAG+SYSTEMS+BUILDER;LLM+APPLICATION+DEVELOPER;BACKEND+SYSTEMS+DEVELOPER"/>
 
+</div>
+
 ---
+
 # 🌌 ABOUT ME
 
-<table align="center">
+<div align="center">
+
+<table width="100%">
 <tr>
 <td align="center">
 
@@ -32,6 +37,8 @@
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -50,15 +57,10 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/GENERATIVE_AI-00F7FF?style=for-the-badge&labelColor=111111"/>
-
 <img src="https://img.shields.io/badge/LLMs-6A00FF?style=for-the-badge&labelColor=111111"/>
-
 <img src="https://img.shields.io/badge/RAG_SYSTEMS-00F7FF?style=for-the-badge&labelColor=111111"/>
-
 <img src="https://img.shields.io/badge/PROMPT_ENGINEERING-6A00FF?style=for-the-badge&labelColor=111111"/>
-
 <img src="https://img.shields.io/badge/VECTOR_DATABASES-00F7FF?style=for-the-badge&labelColor=111111"/>
-
 <img src="https://img.shields.io/badge/AI_&_ML-6A00FF?style=for-the-badge&labelColor=111111"/>
 
 </div>
@@ -67,45 +69,44 @@
 
 <div align="center">
 
-<table>
+<table width="100%">
 
 <tr>
 
-<td align="center" width="300">
+<td align="center" width="33%">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 
 ### Python
 
-Backend Development
-AI Applications
-Problem Solving
+Backend Development  
+AI Applications  
+Problem Solving  
 
 </td>
 
-<td align="center" width="300">
+<td align="center" width="33%">
 
 <img src="https://img.icons8.com/color/480/sql.png" width="50"/>
 
 ### SQL
 
-Database Design
-Advanced Queries
-SQLite / SQL Server
-Data Handling
+Database Design  
+Advanced Queries  
+SQLite / SQL Server  
 
 </td>
 
-<td align="center" width="300">
+<td align="center" width="33%">
 
 <img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="50"/>
 
 ### AI / ML & Gen AI
 
-LLMs
-RAG Systems
-Semantic Search
-Prompt Engineering
+LLMs  
+RAG Systems  
+Semantic Search  
+Prompt Engineering  
 
 </td>
 
@@ -127,59 +128,28 @@ Prompt Engineering
 
 ## 🤖 AI RAG Chatbot
 
-> Advanced Retrieval-Augmented Generation system using semantic search and LLaMA 3.3.
+- Semantic vector retrieval  
+- LLM-based responses  
+- SQLite memory system  
+- RAG architecture  
 
-### ⚡ Features
-
-* Semantic vector retrieval
-* Conversational AI memory
-* Real-time responses
-* SQLite chat storage
-* Context-aware generation
-
-### ⚙️ Stack
-
-```python
-Python • ChromaDB • Streamlit • SQLite
-Groq API • Sentence Transformers • LLaMA 3.3
-```
+**Tech:** Python • ChromaDB • Streamlit • LLM APIs  
 
 ---
 
-## 🏋️ AI Fitness Web Application
+## 🏋️ AI Fitness App
 
-> AI-driven workout and diet recommendation platform.
-
-✅ Personalized workout generation
-✅ AI-based diet planning
-✅ User authentication
-✅ Progress tracking system
-✅ LLM-powered recommendations
+- AI workout generator  
+- Diet recommendation system  
+- User tracking  
 
 ---
 
 ## 🎨 AirCanvas
 
-> Gesture-controlled virtual whiteboard using computer vision.
-
-🖐️ Real-time hand tracking
-🎥 Webcam drawing system
-⚡ Interactive virtual canvas
----
-
-# 🐍 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50a0bde6b.gif" width="100%">
-</p>
+- Hand gesture control  
+- OpenCV + MediaPipe  
+- Real-time drawing system  
 
 ---
 
@@ -188,21 +158,23 @@ Groq API • Sentence Transformers • LLaMA 3.3
 <div align="center">
 
 <a href="mailto:gnaneswarkokkirala@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/EMAIL-00F7FF?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/GNANESWARKOKKIRALA">
-<img src="https://img.shields.io/badge/GITHUB-6A00FF?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-6A00FF?style=for-the-badge"/>
 </a>
 
-<a href="https://linkedin.com/in/gnaneswar-kokkirala-9562a2315">
-<img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge"/>
 </a>
 
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F7FF,25:24243e,50:302b63,75:0f0c29,100:000000"/>
+<div align="center">
 
-<!-- ================= END ================= -->
+🔥 Build • Learn • Deploy • Repeat 🔥
+
+</div>
