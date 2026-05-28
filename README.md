@@ -14,7 +14,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 
-# Python Backend Developer • AI/ML Engineer • Generative AI Developer
+# Python Backend Developer • AI/ML & Generative AI Developer
 
 </div>
 
@@ -62,20 +62,31 @@ I am an aspiring **Software Engineer** focused on building real-world intelligen
 
 ---
 
-<!-- ================= CORE EXPERTISE ================= -->
+<!-- ================= SKILLS ================= -->
+⚡ SKILLS ⚡
+Python
 
-# 🧠 CORE EXPERTISE
+Backend Development
+AI Applications
+Problem Solving
+Automation
 
-- Python Backend Development  
-- REST API Development  
-- SQL Database Design  
-- Generative AI Applications  
-- LLM Integration (Groq / OpenAI)  
-- RAG Architecture  
-- Vector Search & Embeddings  
-- AI/ML Systems  
+SQL
 
----
+Database Design
+Advanced Queries
+SQLite / SQL Server
+Data Handling
+
+AI/ML & Generative AI
+
+LLMs
+RAG Systems
+Semantic Search
+Prompt Engineering
+Vector Databases
+AI Applications
+
 
 <!-- ================= PROJECTS ================= -->
 
