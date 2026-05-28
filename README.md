@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,20:0f0c29,40:302b63,60:24243e,80:00F7FF,100:6A00FF&text=GNANESWAR%20KOKKIRALA&fontSize=52&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=PYTHON%20DEVELOPER%20%7C%20AI%20ENGINEER%20%7C%20BACKEND%20DEVELOPER&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,20:0f0c29,40:302b63,60:24243e,80:00F7FF,100:6A00FF&text=GNANESWAR%20KOKKIRALA&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=PYTHON%20DEVELOPER%20%7C%20AI%20ENGINEER%20%7C%20BACKEND%20DEVELOPER&descAlignY=58&descSize=18"/>
 
 </div>
 
@@ -10,13 +10,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+GENERATIVE+AI+ENGINEER;⚡+RAG+SYSTEMS+BUILDER;⚡+LLM+APPLICATION+DEVELOPER;⚡+BACKEND+SYSTEMS+DEVELOPER;⚡+FUTURE+PRODUCT+ENGINEER"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=GENERATIVE+AI+ENGINEER;RAG+SYSTEMS+BUILDER;LLM+APPLICATION+DEVELOPER;BACKEND+SYSTEMS+DEVELOPER"/>
 
 </div>
 
 ---
-
-<!-- ================= MATRIX EFFECT ================= -->
 
 <p align="center">
 <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%">
@@ -26,7 +24,7 @@
 
 # 🌌 ABOUT ME
 
-```yaml id="u1ka91"
+```yaml
 name: Gnaneswar Kokkirala
 
 role:
@@ -47,13 +45,13 @@ mission:
 
 ---
 
-# ⚡ TECH STACK ⚡
+# ⚡ SKILLS ⚡
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
 
-<img src="https://img.icons8.com/color/480/sql.png" height="90"/>
+<img src="https://img.icons8.com/color/480/sql.png" height="60"/>
 
 </div>
 
@@ -77,70 +75,47 @@ mission:
 
 ---
 
-<!-- ================= CYBER CARDS ================= -->
-
 <div align="center">
 
 <table>
+
 <tr>
 
-<td align="center" width="350">
+<td align="center" width="300">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 
-# 🐍 PYTHON
+### Python
 
 Backend Development
-Automation
-AI Systems
-API Development
+AI Applications
 Problem Solving
 
 </td>
 
-<td align="center" width="350">
+<td align="center" width="300">
 
-<img src="https://img.icons8.com/color/480/sql.png" width="70"/>
+<img src="https://img.icons8.com/color/480/sql.png" width="50"/>
 
-# 🗄️ SQL
+### SQL
 
 Database Design
 Advanced Queries
-SQLite
-SQL Server
+SQLite / SQL Server
 Data Handling
 
 </td>
 
-</tr>
+<td align="center" width="300">
 
-<tr>
+<img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="50"/>
 
-<td align="center" width="350">
-
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="70"/>
-
-# 🤖 GENERATIVE AI
+### AI / ML
 
 LLMs
-Prompt Engineering
-Inference APIs
-AI Applications
-LLM Integration
-
-</td>
-
-<td align="center" width="350">
-
-<img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="70"/>
-
-# 📚 RAG SYSTEMS
-
+RAG Systems
 Semantic Search
-Embeddings
-Vector Retrieval
-ChromaDB
-Context-Aware AI
+Prompt Engineering
 
 </td>
 
@@ -152,24 +127,9 @@ Context-Aware AI
 
 ---
 
-# 🖥️ AI SYSTEM TERMINAL
-
-<div align="center">
-
-```diff id="p91ka2"
-+ PYTHON CORE SYSTEMS INITIALIZED
-+ SQL DATABASE CONNECTION ESTABLISHED
-+ LLM INFERENCE MODELS ONLINE
-+ VECTOR DATABASE SYNCHRONIZED
-+ AI/ML COMPUTATION ENGINE ACTIVE
-+ SEMANTIC SEARCH PIPELINES RUNNING
-+ RAG RETRIEVAL SYSTEM READY
-+ PROMPT ENGINEERING MODULE LOADED
-+ BACKEND API SERVICES DEPLOYED
-+ INTELLIGENT AI RESPONSE ENGINE ACTIVE
-```
-
-</div>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50a0bde6b.gif" width="100%">
+</p>
 
 ---
 
@@ -189,7 +149,7 @@ Context-Aware AI
 
 ### ⚙️ Stack
 
-```python id="k9a11"
+```python
 Python • ChromaDB • Streamlit • SQLite
 Groq API • Sentence Transformers • LLaMA 3.3
 ```
@@ -222,9 +182,9 @@ Groq API • Sentence Transformers • LLaMA 3.3
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GNANESWARKOKKIRALA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GNANESWARKOKKIRALA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GNANESWARKOKKIRALA&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=GNANESWARKOKKIRALA&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
@@ -247,8 +207,6 @@ Groq API • Sentence Transformers • LLaMA 3.3
 </div>
 
 ---
-
-<!-- ================= DIVIDER ================= -->
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50a0bde6b.gif" width="100%">
@@ -276,8 +234,6 @@ Groq API • Sentence Transformers • LLaMA 3.3
 
 ---
 
-<!-- ================= FOOTER ================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:00F7FF,25:24243e,50:302b63,75:0f0c29,100:000000"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F7FF,25:24243e,50:302b63,75:0f0c29,100:000000"/>
 
 <!-- ================= END ================= -->
