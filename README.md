@@ -91,7 +91,8 @@ Developed gesture-based virtual canvas enabling real-time, touch-free drawing us
 
 - 📧 Email: gnaneswarkokkirala@gmail.com  
 - 💻 GitHub: https://github.com/GNANESWARKOKKIRALA  
-- 🔗 LinkedIn: https://linkedin.com/in/gnaneswar-kokkirala-9562a2315  
+- 🔗 LinkedIn: https://linkedin.com/in/gnaneswar-kokkirala-9562a2315
+- 🤖 Portfolio: https://gnaneswar-portfolio91.netlify.app/
 
 ---
 
