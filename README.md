@@ -12,14 +12,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=GENERATIVE+AI+ENGINEER;RAG+SYSTEMS+BUILDER;LLM+APPLICATION+DEVELOPER;BACKEND+SYSTEMS+DEVELOPER"/>
 
-</div>
-
----
-
-<p align="center">
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%">
-</p>
-
 ---
 
 # 🌌 ABOUT ME
