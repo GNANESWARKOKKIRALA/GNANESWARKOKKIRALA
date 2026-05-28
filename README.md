@@ -110,7 +110,7 @@ Data Handling
 
 <img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="50"/>
 
-### AI / ML
+### AI / ML & Gen AI
 
 LLMs
 RAG Systems
