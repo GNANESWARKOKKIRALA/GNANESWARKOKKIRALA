@@ -18,27 +18,13 @@
 
 # 🌌 ABOUT ME
 
-<div align="center">
-
-<table width="100%">
-<tr>
-<td align="center">
-
 👨‍💻 **GNANESWAR KOKKIRALA**
-
----
 
 🚀 Passionate about building intelligent AI systems  
 ⚡ Python Backend Developer focused on scalable applications  
 🧠 Building RAG-powered LLM applications & AI solutions  
 📚 Exploring AI/ML, APIs, Vector Databases & Backend Systems  
 🎯 Goal: Become a top-tier software engineer in product-based companies  
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
