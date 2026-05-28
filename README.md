@@ -25,22 +25,17 @@
 # 🌌 ABOUT ME
 
 ```yaml
-name: Gnaneswar Kokkirala
+👨‍💻 GNANESWAR KOKKIRALA
 
-role:
-  - AI Engineer
-  - Python Backend Developer
-  - LLM Application Builder
+🚀 Passionate about building intelligent AI systems
 
-focus:
-  - Generative AI
-  - RAG Systems
-  - Backend APIs
-  - Vector Databases
-  - AI/ML Systems
+⚡ Python Backend Developer focused on scalable applications
 
-mission:
-  Build intelligent systems that solve real-world problems.
+🧠 Building RAG-powered LLM applications & AI solutions
+
+📚 Exploring AI/ML, APIs, Vector Databases & Backend Systems
+
+🎯 Goal: Become a top-tier software engineer in product-based companies
 ```
 
 ---
@@ -175,27 +170,6 @@ Groq API • Sentence Transformers • LLaMA 3.3
 🖐️ Real-time hand tracking
 🎥 Webcam drawing system
 ⚡ Interactive virtual canvas
-
----
-
-# 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GNANESWARKOKKIRALA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=GNANESWARKOKKIRALA&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GNANESWARKOKKIRALA&theme=tokyonight"/>
-
-</div>
-
 ---
 
 # 🐍 CONTRIBUTION GRAPH
