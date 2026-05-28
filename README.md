@@ -17,7 +17,9 @@
 
 <div align="center">
 
-### 👨‍💻 GNANESWAR KOKKIRALA
+👨‍💻 **GNANESWAR KOKKIRALA**
+
+---
 
 🚀 Passionate about building intelligent AI systems  
 ⚡ Python Backend Developer focused on scalable applications  
