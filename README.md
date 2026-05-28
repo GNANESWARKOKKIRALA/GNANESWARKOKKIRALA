@@ -43,10 +43,15 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/GENERATIVE_AI-00F7FF?style=for-the-badge&labelColor=111111"/>
+
 <img src="https://img.shields.io/badge/LLMs-6A00FF?style=for-the-badge&labelColor=111111"/>
+
 <img src="https://img.shields.io/badge/RAG_SYSTEMS-00F7FF?style=for-the-badge&labelColor=111111"/>
+
 <img src="https://img.shields.io/badge/PROMPT_ENGINEERING-6A00FF?style=for-the-badge&labelColor=111111"/>
+
 <img src="https://img.shields.io/badge/VECTOR_DATABASES-00F7FF?style=for-the-badge&labelColor=111111"/>
+
 <img src="https://img.shields.io/badge/AI_&_ML-6A00FF?style=for-the-badge&labelColor=111111"/>
 
 </div>
@@ -55,44 +60,45 @@
 
 <div align="center">
 
-<table width="100%">
+<table>
 
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="300">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 
 ### Python
 
-Backend Development  
-AI Applications  
-Problem Solving  
+Backend Development
+AI Applications
+Problem Solving
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="300">
 
 <img src="https://img.icons8.com/color/480/sql.png" width="50"/>
 
 ### SQL
 
-Database Design  
-Advanced Queries  
-SQLite / SQL Server  
+Database Design
+Advanced Queries
+SQLite / SQL Server
+Data Handling
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="300">
 
 <img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="50"/>
 
 ### AI / ML & Gen AI
 
-LLMs  
-RAG Systems  
-Semantic Search  
-Prompt Engineering  
+LLMs
+RAG Systems
+Semantic Search
+Prompt Engineering
 
 </td>
 
@@ -107,6 +113,8 @@ Prompt Engineering
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50a0bde6b.gif" width="100%">
 </p>
+
+---
 
 ---
 
