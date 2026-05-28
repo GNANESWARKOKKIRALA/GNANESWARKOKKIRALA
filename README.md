@@ -13,22 +13,19 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=GENERATIVE+AI+ENGINEER;RAG+SYSTEMS+BUILDER;LLM+APPLICATION+DEVELOPER;BACKEND+SYSTEMS+DEVELOPER"/>
 
 ---
-
 # 🌌 ABOUT ME
 
-```yaml
-👨‍💻 GNANESWAR KOKKIRALA
+<div align="center">
 
-🚀 Passionate about building intelligent AI systems
+### 👨‍💻 GNANESWAR KOKKIRALA
 
-⚡ Python Backend Developer focused on scalable applications
+🚀 Passionate about building intelligent AI systems  
+⚡ Python Backend Developer focused on scalable applications  
+🧠 Building RAG-powered LLM applications & AI solutions  
+📚 Exploring AI/ML, APIs, Vector Databases & Backend Systems  
+🎯 Goal: Become a top-tier software engineer in product-based companies  
 
-🧠 Building RAG-powered LLM applications & AI solutions
-
-📚 Exploring AI/ML, APIs, Vector Databases & Backend Systems
-
-🎯 Goal: Become a top-tier software engineer in product-based companies
-```
+</div>
 
 ---
 
