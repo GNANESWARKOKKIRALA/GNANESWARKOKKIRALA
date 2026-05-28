@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,20:0f0c29,40:302b63,60:24243e,80:00F7FF,100:6A00FF&text=GNANESWAR%20KOKKIRALA&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=PYTHON%20DEVELOPER%20%7C%20AI%20ENGINEER%20%7C%20BACKEND%20DEVELOPER&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,20:0f0c29,40:302b63,60:24243e,80:00F7FF,100:6A00FF&text=GNANESWAR%20KOKKIRALA&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=PYTHON%20DEVELOPER%20%7C%20AI%20ENGINEER%20%7C%20GEN%20AI%20DEVELOPER%20%7C%20BACKEND%20DEVELOPER&descAlignY=58&descSize=18"/>
 
 </div>
 
