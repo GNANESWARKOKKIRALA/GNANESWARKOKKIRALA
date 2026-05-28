@@ -1,78 +1,48 @@
-<!-- ================= TOP BANNER ================= -->
+<!-- ================= TOP HEADER ================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,20:0f0c29,40:302b63,60:24243e,80:00F7FF,100:6A00FF&text=GNANESWAR%20KOKKIRALA&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=PYTHON%20BACKEND%20DEVELOPER%20%7C%20AI%2FML%20%26%20GENERATIVE%20AI%20ENGINEER&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,20:302b63,50:24243e,80:00F7FF,100:6A00FF&text=GNANESWAR%20KOKKIRALA&fontSize=46&fontColor=00F7FF&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20AI%2FML%20%7C%20Generative%20AI&descAlignY=60&descSize=18"/>
 
 </div>
 
 ---
 
+<!-- ================= TITLE ================= -->
+
 <div align="center">
 
-<h1>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-
-GNANESWAR KOKKIRALA
-
-</h1>
-
-<h3>
-
-Python Backend Developer • AI/ML Engineer • Generative AI Developer • LLM Application Builder
-
-</h3>
+# Python Backend Developer • AI/ML Engineer • Generative AI Developer
 
 </div>
 
 ---
 
-<p align="center">
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%">
-</p>
+<!-- ================= ABOUT ================= -->
+
+# 👨‍💻 ABOUT ME
+
+I am an aspiring **Software Engineer** focused on building real-world intelligent systems using Python, AI/ML, and Generative AI.
+
+- ⚡ Strong in Python Backend Development  
+- 🧠 Building LLM + RAG based applications  
+- 🔍 Focused on Vector Databases & Semantic Search  
+- 🤖 Interested in AI/ML and Generative AI systems  
+- 🚀 Goal: Become a Product-based Company Engineer  
 
 ---
 
-# 🌌 ABOUT ME
+<!-- ================= SKILLS ================= -->
+
+# ⚡ SKILLS
 
 <div align="center">
 
-<table>
-<tr>
-<td width="850">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70"/>
 
-<div align="center">
-
-### 👨‍💻 GNANESWAR KOKKIRALA
-
-🚀 Passionate about building intelligent AI systems
-
-⚡ Python Backend Developer focused on scalable applications
-
-🧠 Building RAG-powered LLM applications & AI solutions
-
-📚 Exploring AI/ML, APIs, Vector Databases & Backend Systems
-
-🎯 Goal: Become a top-tier software engineer in product-based companies
-
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# ⚡ SKILLS ⚡
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55"/>
-
-<img src="https://img.icons8.com/color/480/sql.png" height="55"/>
+<img src="https://img.icons8.com/color/480/sql.png" height="70"/>
 
 </div>
 
@@ -80,184 +50,122 @@ Python Backend Developer • AI/ML Engineer • Generative AI Developer • LLM 
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/PYTHON-00F7FF?style=for-the-badge&labelColor=111111"/>
+<img src="https://img.shields.io/badge/SQL-6A00FF?style=for-the-badge&labelColor=111111"/>
 <img src="https://img.shields.io/badge/GENERATIVE_AI-00F7FF?style=for-the-badge&labelColor=111111"/>
-
-<img src="https://img.shields.io/badge/AI_&_ML-6A00FF?style=for-the-badge&labelColor=111111"/>
-
-<img src="https://img.shields.io/badge/LLMs-00F7FF?style=for-the-badge&labelColor=111111"/>
-
-<img src="https://img.shields.io/badge/RAG_SYSTEMS-6A00FF?style=for-the-badge&labelColor=111111"/>
-
-<img src="https://img.shields.io/badge/PROMPT_ENGINEERING-00F7FF?style=for-the-badge&labelColor=111111"/>
-
+<img src="https://img.shields.io/badge/LLMs-6A00FF?style=for-the-badge&labelColor=111111"/>
+<img src="https://img.shields.io/badge/RAG_SYSTEMS-00F7FF?style=for-the-badge&labelColor=111111"/>
 <img src="https://img.shields.io/badge/VECTOR_DATABASES-6A00FF?style=for-the-badge&labelColor=111111"/>
+<img src="https://img.shields.io/badge/AI_ML-00F7FF?style=for-the-badge&labelColor=111111"/>
 
 </div>
 
 ---
 
-<div align="center">
+<!-- ================= CORE EXPERTISE ================= -->
 
-<table>
+# 🧠 CORE EXPERTISE
 
-<tr>
-
-<td align="center" width="300">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-
-### Python
-
-Backend Development
-AI Applications
-Problem Solving
-Automation
-
-</td>
-
-<td align="center" width="300">
-
-<img src="https://img.icons8.com/color/480/sql.png" width="45"/>
-
-### SQL
-
-Database Design
-Advanced Queries
-SQLite / SQL Server
-Data Handling
-
-</td>
-
-<td align="center" width="300">
-
-<img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="45"/>
-
-### AI/ML & Generative AI
-
-LLMs
-RAG Systems
-Semantic Search
-Prompt Engineering
-Vector Databases
-AI Applications
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+- Python Backend Development  
+- REST API Development  
+- SQL Database Design  
+- Generative AI Applications  
+- LLM Integration (Groq / OpenAI)  
+- RAG Architecture  
+- Vector Search & Embeddings  
+- AI/ML Systems  
 
 ---
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50a0bde6b.gif" width="100%">
-</p>
+<!-- ================= PROJECTS ================= -->
 
----
-
-# 🚀 FEATURED PROJECTS
+# 🚀 PROJECTS
 
 ## 🤖 AI RAG Chatbot
 
-> Advanced Retrieval-Augmented Generation system using semantic search and LLaMA 3.3.
+Advanced AI chatbot using Retrieval-Augmented Generation.
 
-### ⚡ Features
+- Semantic search using embeddings  
+- Context-aware responses using LLM  
+- Memory-based chat system  
+- Fast retrieval pipeline  
 
-* Semantic vector retrieval
-* Conversational AI memory
-* Real-time responses
-* SQLite chat storage
-* Context-aware generation
-
-### ⚙️ Stack
-
-```python id="t87dsa"
-Python • ChromaDB • Streamlit • SQLite
-Groq API • Sentence Transformers • LLaMA 3.3
-```
+**Tech Stack:** Python, ChromaDB, Streamlit, SQLite, LLM APIs  
 
 ---
 
-## 🏋️ AI Fitness Web Application
+## 🏋️ AI Fitness App
 
-> AI-driven workout and diet recommendation platform.
+AI-powered fitness recommendation system.
 
-✅ Personalized workout generation
-✅ AI-based diet planning
-✅ User authentication
-✅ Progress tracking system
-✅ LLM-powered recommendations
+- Workout & diet generation  
+- User personalization  
+- Progress tracking  
 
 ---
 
 ## 🎨 AirCanvas
 
-> Gesture-controlled virtual whiteboard using computer vision.
+Gesture-controlled drawing system.
 
-🖐️ Real-time hand tracking
-🎥 Webcam drawing system
-⚡ Interactive virtual canvas
+- Hand tracking using OpenCV  
+- Real-time drawing  
+- Webcam-based interaction  
 
 ---
 
-# 📊 GITHUB ANALYTICS
+<!-- ================= EDUCATION / GOAL ================= -->
+
+# 🎯 GOAL
+
+To become a top-tier **AI Software Engineer** in a product-based company by mastering:
+- AI Systems
+- Backend Engineering
+- Scalable Architecture
+- Real-world AI Applications  
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+
+# 📊 GITHUB STATS
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GNANESWARKOKKIRALA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GNANESWARKOKKIRALA&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=GNANESWARKOKKIRALA&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=GNANESWARKOKKIRALA&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GNANESWARKOKKIRALA&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50a0bde6b.gif" width="100%">
-</p>
-
----
+<!-- ================= CONNECT ================= -->
 
 # 🌐 CONNECT WITH ME
 
 <div align="center">
 
 <a href="mailto:gnaneswarkokkirala@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/EMAIL-00F7FF?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/GNANESWARKOKKIRALA">
-<img src="https://img.shields.io/badge/GITHUB-6A00FF?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-6A00FF?style=for-the-badge"/>
 </a>
 
-<a href="https://linkedin.com/in/gnaneswar-kokkirala-9562a2315">
-<img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge"/>
 </a>
 
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F7FF,25:24243e,50:302b63,75:0f0c29,100:000000"/>
+<!-- ================= FOOTER ================= -->
 
-<!-- ================= END ================= -->
+<div align="center">
+
+🔥 Build • Learn • Deploy • Repeat 🔥
+
+</div>
