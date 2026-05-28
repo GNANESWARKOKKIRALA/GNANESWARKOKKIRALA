@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,20:0f0c29,40:302b63,60:24243e,80:00F7FF,100:6A00FF&text=GNANESWAR%20KOKKIRALA&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=PYTHON%20DEVELOPER%20%7C%20AI%20ENGINEER%20%7C%20BACKEND%20DEVELOPER&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,20:0f0c29,40:302b63,60:24243e,80:00F7FF,100:6A00FF&text=GNANESWAR%20KOKKIRALA&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=PYTHON%20BACKEND%20DEVELOPER%20%7C%20AI%2FML%20%26%20GENERATIVE%20AI%20ENGINEER&descAlignY=58&descSize=18"/>
 
 </div>
 
@@ -10,7 +10,19 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=GENERATIVE+AI+ENGINEER;RAG+SYSTEMS+BUILDER;LLM+APPLICATION+DEVELOPER;BACKEND+SYSTEMS+DEVELOPER"/>
+<h1>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+
+GNANESWAR KOKKIRALA
+
+</h1>
+
+<h3>
+
+Python Backend Developer • AI/ML Engineer • Generative AI Developer • LLM Application Builder
+
+</h3>
 
 </div>
 
@@ -24,24 +36,33 @@
 
 # 🌌 ABOUT ME
 
-```yaml
-name: Gnaneswar Kokkirala
+<div align="center">
 
-role:
-  - AI Engineer
-  - Python Backend Developer
-  - LLM Application Builder
+<table>
+<tr>
+<td width="850">
 
-focus:
-  - Generative AI
-  - RAG Systems
-  - Backend APIs
-  - Vector Databases
-  - AI/ML Systems
+<div align="center">
 
-mission:
-  Build intelligent systems that solve real-world problems.
-```
+### 👨‍💻 GNANESWAR KOKKIRALA
+
+🚀 Passionate about building intelligent AI systems
+
+⚡ Python Backend Developer focused on scalable applications
+
+🧠 Building RAG-powered LLM applications & AI solutions
+
+📚 Exploring AI/ML, APIs, Vector Databases & Backend Systems
+
+🎯 Goal: Become a top-tier software engineer in product-based companies
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -49,9 +70,9 @@ mission:
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55"/>
 
-<img src="https://img.icons8.com/color/480/sql.png" height="60"/>
+<img src="https://img.icons8.com/color/480/sql.png" height="55"/>
 
 </div>
 
@@ -61,15 +82,15 @@ mission:
 
 <img src="https://img.shields.io/badge/GENERATIVE_AI-00F7FF?style=for-the-badge&labelColor=111111"/>
 
-<img src="https://img.shields.io/badge/LLMs-6A00FF?style=for-the-badge&labelColor=111111"/>
-
-<img src="https://img.shields.io/badge/RAG_SYSTEMS-00F7FF?style=for-the-badge&labelColor=111111"/>
-
-<img src="https://img.shields.io/badge/PROMPT_ENGINEERING-6A00FF?style=for-the-badge&labelColor=111111"/>
-
-<img src="https://img.shields.io/badge/VECTOR_DATABASES-00F7FF?style=for-the-badge&labelColor=111111"/>
-
 <img src="https://img.shields.io/badge/AI_&_ML-6A00FF?style=for-the-badge&labelColor=111111"/>
+
+<img src="https://img.shields.io/badge/LLMs-00F7FF?style=for-the-badge&labelColor=111111"/>
+
+<img src="https://img.shields.io/badge/RAG_SYSTEMS-6A00FF?style=for-the-badge&labelColor=111111"/>
+
+<img src="https://img.shields.io/badge/PROMPT_ENGINEERING-00F7FF?style=for-the-badge&labelColor=111111"/>
+
+<img src="https://img.shields.io/badge/VECTOR_DATABASES-6A00FF?style=for-the-badge&labelColor=111111"/>
 
 </div>
 
@@ -83,19 +104,20 @@ mission:
 
 <td align="center" width="300">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 
 ### Python
 
 Backend Development
 AI Applications
 Problem Solving
+Automation
 
 </td>
 
 <td align="center" width="300">
 
-<img src="https://img.icons8.com/color/480/sql.png" width="50"/>
+<img src="https://img.icons8.com/color/480/sql.png" width="45"/>
 
 ### SQL
 
@@ -108,14 +130,16 @@ Data Handling
 
 <td align="center" width="300">
 
-<img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="45"/>
 
-### AI / ML
+### AI/ML & Generative AI
 
 LLMs
 RAG Systems
 Semantic Search
 Prompt Engineering
+Vector Databases
+AI Applications
 
 </td>
 
@@ -149,7 +173,7 @@ Prompt Engineering
 
 ### ⚙️ Stack
 
-```python
+```python id="t87dsa"
 Python • ChromaDB • Streamlit • SQLite
 Groq API • Sentence Transformers • LLaMA 3.3
 ```
