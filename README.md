@@ -1,4 +1,51 @@
-<!-- ================= PREMIUM SKILLS ================= -->
+<!-- ================= TOP BANNER ================= -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,20:0f0c29,40:302b63,60:24243e,80:00F7FF,100:6A00FF&text=GNANESWAR%20KOKKIRALA&fontSize=52&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=PYTHON%20DEVELOPER%20%7C%20AI%20ENGINEER%20%7C%20BACKEND%20DEVELOPER&descAlignY=58&descSize=20"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+GENERATIVE+AI+ENGINEER;⚡+RAG+SYSTEMS+BUILDER;⚡+LLM+APPLICATION+DEVELOPER;⚡+BACKEND+SYSTEMS+DEVELOPER;⚡+FUTURE+PRODUCT+ENGINEER"/>
+
+</div>
+
+---
+
+<!-- ================= MATRIX EFFECT ================= -->
+
+<p align="center">
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%">
+</p>
+
+---
+
+# 🌌 ABOUT ME
+
+```yaml id="u1ka91"
+name: Gnaneswar Kokkirala
+
+role:
+  - AI Engineer
+  - Python Backend Developer
+  - LLM Application Builder
+
+focus:
+  - Generative AI
+  - RAG Systems
+  - Backend APIs
+  - Vector Databases
+  - AI/ML Systems
+
+mission:
+  Build intelligent systems that solve real-world problems.
+```
+
+---
 
 # ⚡ TECH STACK ⚡
 
@@ -6,7 +53,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="90"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="90"/>
+<img src="https://img.icons8.com/color/480/sql.png" height="90"/>
 
 </div>
 
@@ -30,6 +77,8 @@
 
 ---
 
+<!-- ================= CYBER CARDS ================= -->
+
 <div align="center">
 
 <table>
@@ -41,23 +90,25 @@
 
 # 🐍 PYTHON
 
-Core Python
 Backend Development
 Automation
-AI Applications
+AI Systems
+API Development
+Problem Solving
 
 </td>
 
 <td align="center" width="350">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70"/>
+<img src="https://img.icons8.com/color/480/sql.png" width="70"/>
 
 # 🗄️ SQL
 
-Queries
 Database Design
+Advanced Queries
 SQLite
 SQL Server
+Data Handling
 
 </td>
 
@@ -73,8 +124,9 @@ SQL Server
 
 LLMs
 Prompt Engineering
-AI Systems
 Inference APIs
+AI Applications
+LLM Integration
 
 </td>
 
@@ -84,10 +136,11 @@ Inference APIs
 
 # 📚 RAG SYSTEMS
 
-Embeddings
 Semantic Search
-ChromaDB
+Embeddings
 Vector Retrieval
+ChromaDB
+Context-Aware AI
 
 </td>
 
@@ -99,16 +152,132 @@ Vector Retrieval
 
 ---
 
+# 🖥️ AI SYSTEM TERMINAL
+
 <div align="center">
 
-```diff id="x9qq11"
-+ PYTHON ENGINE READY
-+ SQL DATABASE CONNECTED
-+ LLM MODELS ACTIVE
-+ VECTOR DATABASE ONLINE
-+ AI/ML SYSTEMS RUNNING
+```diff id="p91ka2"
++ PYTHON CORE SYSTEMS INITIALIZED
++ SQL DATABASE CONNECTION ESTABLISHED
++ LLM INFERENCE MODELS ONLINE
++ VECTOR DATABASE SYNCHRONIZED
++ AI/ML COMPUTATION ENGINE ACTIVE
++ SEMANTIC SEARCH PIPELINES RUNNING
++ RAG RETRIEVAL SYSTEM READY
++ PROMPT ENGINEERING MODULE LOADED
++ BACKEND API SERVICES DEPLOYED
++ INTELLIGENT AI RESPONSE ENGINE ACTIVE
 ```
 
 </div>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+## 🤖 AI RAG Chatbot
+
+> Advanced Retrieval-Augmented Generation system using semantic search and LLaMA 3.3.
+
+### ⚡ Features
+
+* Semantic vector retrieval
+* Conversational AI memory
+* Real-time responses
+* SQLite chat storage
+* Context-aware generation
+
+### ⚙️ Stack
+
+```python id="k9a11"
+Python • ChromaDB • Streamlit • SQLite
+Groq API • Sentence Transformers • LLaMA 3.3
+```
+
+---
+
+## 🏋️ AI Fitness Web Application
+
+> AI-driven workout and diet recommendation platform.
+
+✅ Personalized workout generation
+✅ AI-based diet planning
+✅ User authentication
+✅ Progress tracking system
+✅ LLM-powered recommendations
+
+---
+
+## 🎨 AirCanvas
+
+> Gesture-controlled virtual whiteboard using computer vision.
+
+🖐️ Real-time hand tracking
+🎥 Webcam drawing system
+⚡ Interactive virtual canvas
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GNANESWARKOKKIRALA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GNANESWARKOKKIRALA&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GNANESWARKOKKIRALA&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<!-- ================= DIVIDER ================= -->
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50a0bde6b.gif" width="100%">
+</p>
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="mailto:gnaneswarkokkirala@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+<a href="https://github.com/GNANESWARKOKKIRALA">
+<img src="https://img.shields.io/badge/GITHUB-6A00FF?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/gnaneswar-kokkirala-9562a2315">
+<img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<!-- ================= FOOTER ================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:00F7FF,25:24243e,50:302b63,75:0f0c29,100:000000"/>
 
 <!-- ================= END ================= -->
