@@ -34,49 +34,35 @@
 
 # 🌌 ABOUT ME
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+👨‍💻 **GNANESWAR KOKKIRALA**
 
-👨‍💻 **GNANESWAR KOKKIRALA**  
-
-🚀 Passionate about building intelligent AI systems  
-
-⚡ Python Backend Developer focused on scalable applications  
-
-🧠 Building RAG-powered LLM applications & AI solutions  
-
-📚 Exploring AI/ML, APIs, Vector Databases & Backend Systems  
-
-🏋️ Fitness Enthusiast + AI Builder  
-
-🎯 Goal: Become a top-tier software engineer in product-based companies  
-
-💡 Love solving real-world problems using AI & Backend Technologies  
-
-<br><br><br><br><br>
+🚀 Passionate about building intelligent AI systems
+⚡ Python Backend Developer focused on scalable applications
+🧠 Building RAG-powered LLM applications & AI solutions
+📚 Exploring AI/ML, APIs, Vector Databases & Backend Systems
+🎯 Goal: Become a top-tier software engineer in product-based companies
 
 ---
 
-<!-- ================= DIVIDER ================= -->
+# ⚡ SKILLS ⚡
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
 
-</div>
+<img src="https://img.icons8.com/color/480/sql.png" height="60"/>
 
----
-
-# ⚡ TECH STACK ⚡
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,flask,mysql,sqlite,git,github,vscode,opencv,tensorflow&theme=dark"/>
+<img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" height="60"/>
 
 </div>
 
 <br>
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-FF6B00?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GENERATIVE_AI-FF006E?style=for-the-badge&logo=openai&logoColor=white"/>
 
@@ -90,41 +76,67 @@
 
 <img src="https://img.shields.io/badge/AI_&_ML-FFBE0B?style=for-the-badge&logo=tensorflow&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/BACKEND_SYSTEMS-00F7FF?style=for-the-badge&logo=fastapi&logoColor=black"/>
+<img src="https://img.shields.io/badge/BACKEND_DEVELOPMENT-00F7FF?style=for-the-badge&logo=fastapi&logoColor=black"/>
 
 </div>
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
-
-# 📊 GITHUB ANALYTICS
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GNANESWARKOKKIRALA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<table>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GNANESWARKOKKIRALA&theme=tokyonight&hide_border=true&background=0D1117"/>
+<tr>
 
-</div>
+<td align="center" width="300">
 
-<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
 
-<div align="center">
+### Python
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNANESWARKOKKIRALA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+Backend Development
+AI Applications
+Problem Solving
+
+</td>
+
+<td align="center" width="300">
+
+<img src="https://img.icons8.com/color/480/sql.png" width="55"/>
+
+### SQL
+
+Database Design
+Advanced Queries
+SQLite / SQL Server
+Data Handling
+
+</td>
+
+<td align="center" width="300">
+
+<img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="55"/>
+
+### AI / ML & Gen AI
+
+LLMs
+RAG Systems
+Semantic Search
+Prompt Engineering
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-<!-- ================= CODING GIF ================= -->
-
-<div align="center">
-
-<img width="500" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
-
-</div>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50a0bde6b.gif" width="100%">
+</p>
 
 ---
 
@@ -132,66 +144,30 @@
 
 ## 🤖 AI RAG Chatbot
 
-✨ Semantic vector retrieval  
-✨ LLM-powered intelligent responses  
-✨ SQLite memory system  
-✨ Advanced RAG architecture  
-✨ Context-aware conversations  
+* Semantic vector retrieval
+* LLM-based responses
+* SQLite memory system
+* RAG architecture
 
-### ⚙️ Tech Stack
-`Python` • `ChromaDB` • `Streamlit` • `LLM APIs` • `Sentence Transformers`
+**Tech:** Python • ChromaDB • Streamlit • LLM APIs
 
 ---
 
 ## 🏋️ AI Fitness App
 
-✨ AI-generated workout plans  
-✨ Diet recommendation system  
-✨ Personalized fitness tracking  
-✨ User progress analytics  
-
-### ⚙️ Tech Stack
-`Python` • `AI APIs` • `SQLite` • `Backend Systems`
+* AI workout generator
+* Diet recommendation system
+* User tracking
 
 ---
 
 ## 🎨 AirCanvas
 
-✨ Hand gesture drawing system  
-✨ OpenCV + MediaPipe integration  
-✨ Real-time computer vision tracking  
-✨ Interactive drawing experience  
-
-### ⚙️ Tech Stack
-`Python` • `OpenCV` • `MediaPipe` • `Computer Vision`
+* Hand gesture control
+* OpenCV + MediaPipe
+* Real-time drawing system
 
 ---
-
-<!-- ================= TROPHIES ================= -->
-
-# 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GNANESWARKOKKIRALA&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-
-# 📈 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GNANESWARKOKKIRALA&theme=react-dark&hide_border=true&area=true"/>
-
-</div>
-
----
-
-<!-- ================= CONNECT ================= -->
 
 # 🌐 CONNECT WITH ME
 
@@ -217,23 +193,8 @@
 
 ---
 
-<!-- ================= QUOTE ================= -->
-
 <div align="center">
 
-### ⚡ BUILD • LEARN • DEPLOY • REPEAT ⚡
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+🔥 Build • Learn • Deploy • Repeat 🔥
 
 </div>
-
----
-
-<!-- ================= FOOTER ================= -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF006E&height=140&section=footer"/>
-
-</div>
-```
