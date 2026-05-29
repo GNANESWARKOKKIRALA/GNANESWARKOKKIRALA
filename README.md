@@ -1,4 +1,3 @@
-```markdown
 <!-- ================= HERO BANNER ================= -->
 
 <div align="center">
