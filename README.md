@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,15:0f0c29,35:302b63,55:24243e,75:00F7FF,100:FF006E&text=GNANESWAR%20KOKKIRALA&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=PYTHON%20DEVELOPER%20|%20GEN%20AI%20ENGINEER%20|%20BACKEND%20DEVELOPER&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,15:0f0c29,35:302b63,55:24243e,75:00F7FF,100:FF006E&text=GNANESWAR%20KOKKIRALA&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20PYTHON%20DEVELOPER%20|%20GEN%20AI%20DEVELOPER%20|%20BACKEND%20DEVELOPER&descAlignY=58&descSize=18"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=GENERATIVE+AI+ENGINEER;RAG+SYSTEMS+BUILDER;LLM+APPLICATION+DEVELOPER;PYTHON+BACKEND+DEVELOPER;BUILDING+INTELLIGENT+AI+SYSTEMS"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=FULL+STACK+PYTHON+DEVELOPER;GENERATIVE+AI+DEVELOPER;RAG+SYSTEMS+BUILDER;LLM+APPLICATION+DEVELOPER;BUILDING+INTELLIGENT+AI+SYSTEMS"/>
 
 </div>
 
@@ -37,7 +37,7 @@
 👨‍💻 **GNANESWAR KOKKIRALA**
 
 🚀 Passionate about building intelligent AI systems
-⚡ Python Backend Developer focused on scalable applications
+⚡ Full Stack Python Developer focused on scalable, end-to-end applications
 🧠 Building RAG-powered LLM applications & AI solutions
 📚 Exploring AI/ML, APIs, Vector Databases & Backend Systems
 🎯 Goal: Become a top-tier software engineer in product-based companies
@@ -124,13 +124,29 @@ Problem Solving
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/>
 
-### HTML / CSS
+### HTML
 
 Semantic Markup
+Page Structure
+Accessibility
+
+</td>
+
+<td align="center" width="300">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
+
+### CSS
+
 Responsive Styling
+Flexbox / Grid
 Modern Layouts
 
 </td>
+
+</tr>
+
+<tr>
 
 <td align="center" width="300">
 
@@ -143,10 +159,6 @@ Interactive UI
 ES6+
 
 </td>
-
-</tr>
-
-<tr>
 
 <td align="center" width="300">
 
@@ -172,6 +184,10 @@ REST APIs
 
 </td>
 
+</tr>
+
+<tr>
+
 <td align="center" width="300">
 
 <img src="https://img.icons8.com/color/480/sql.png" width="55"/>
@@ -185,10 +201,6 @@ Data Handling
 
 </td>
 
-</tr>
-
-<tr>
-
 <td align="center" width="300">
 
 <img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="55"/>
@@ -201,8 +213,6 @@ Semantic Search
 Prompt Engineering
 
 </td>
-
-<td></td>
 
 <td></td>
 
@@ -224,6 +234,8 @@ Prompt Engineering
 
 ## 🤖 AI RAG Chatbot
 
+A retrieval-augmented chatbot that answers questions from uploaded documents by combining vector-based semantic search with LLM-generated responses, backed by persistent chat memory.
+
 * Semantic vector retrieval
 * LLM-based responses
 * SQLite memory system
@@ -233,7 +245,9 @@ Prompt Engineering
 
 ---
 
-## 🏋️ AI Fitness App
+## 🏋️ FitAI
+
+An AI-powered fitness assistant that generates personalized workout plans and diet recommendations, and helps users track their progress over time.
 
 * AI workout generator
 * Diet recommendation system
@@ -242,6 +256,8 @@ Prompt Engineering
 ---
 
 ## 🎨 AirCanvas
+
+A computer-vision drawing application that lets users draw on screen using real-time hand gesture tracking — no mouse or stylus needed.
 
 * Hand gesture control
 * OpenCV + MediaPipe
@@ -261,11 +277,11 @@ Prompt Engineering
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/gnaneswar-kokkirala-9562a2315">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://gnaneswar-portfolio91.netlify.app/">
+<a href="https://gnaneswar-ai-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/AI_PORTFOLIO-FF006E?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
