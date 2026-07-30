@@ -214,7 +214,17 @@ Prompt Engineering
 
 </td>
 
-<td></td>
+<td align="center" width="300">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55"/>
+
+### FastAPI
+
+REST API Development
+Backend Services
+Authentication
+
+</td>
 
 </tr>
 
