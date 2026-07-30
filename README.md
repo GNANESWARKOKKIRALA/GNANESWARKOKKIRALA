@@ -2,23 +2,19 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,15:0f0c29,35:302b63,55:24243e,75:00F7FF,100:FF006E&text=GNANESWAR%20KOKKIRALA&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=PYTHON%20DEVELOPER%20|%20GEN%20AI%20ENGINEER%20|%20BACKEND%20DEVELOPER&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,15:0f0c29,35:302b63,55:24243e,75:00F7FF,100:FF006E&text=GNANESWAR%20KOKKIRALA&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20PYTHON%20DEVELOPER%20|%20GENERATIVE%20AI%20ENGINEER&descAlignY=58&descSize=18"/>
 
 </div>
 
 ---
-
-<!-- ================= ANIMATED TEXT ================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=GENERATIVE+AI+ENGINEER;RAG+SYSTEMS+BUILDER;LLM+APPLICATION+DEVELOPER;PYTHON+BACKEND+DEVELOPER;BUILDING+INTELLIGENT+AI+SYSTEMS"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=FULL+STACK+PYTHON+DEVELOPER;GENERATIVE+AI+ENGINEER;LLM+APPLICATION+DEVELOPER;RAG+SYSTEMS+BUILDER;HTML+%7C+CSS+%7C+JAVASCRIPT;FASTAPI+BACKEND+DEVELOPER;BUILDING+INTELLIGENT+AI+SYSTEMS"/>
 
 </div>
 
 ---
-
-<!-- ================= PROFILE VIEWS ================= -->
 
 <div align="center">
 
@@ -34,21 +30,37 @@
 
 # 🌌 ABOUT ME
 
-👨‍💻 **GNANESWAR KOKKIRALA**
+👋 Hi, I'm **Gnaneswar Kokkirala**
 
-🚀 Passionate about building intelligent AI systems
-⚡ Python Backend Developer focused on scalable applications
-🧠 Building RAG-powered LLM applications & AI solutions
-📚 Exploring AI/ML, APIs, Vector Databases & Backend Systems
-🎯 Goal: Become a top-tier software engineer in product-based companies
+💻 Full Stack Python Developer
+
+🤖 Generative AI Engineer
+
+🌐 Building responsive web applications using HTML, CSS & JavaScript
+
+⚙️ Developing scalable backend systems using Python & FastAPI
+
+🧠 Creating AI-powered applications with LLMs, RAG & Vector Databases
+
+📚 Exploring AI, Machine Learning, APIs & Cloud Technologies
+
+🎯 Goal: Build world-class AI products and become a top software engineer.
 
 ---
 
-# ⚡ SKILLS ⚡
+# ⚡ TECH STACK ⚡
 
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60"/>
 
 <img src="https://img.icons8.com/color/480/sql.png" height="60"/>
 
@@ -60,23 +72,29 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/SQL-FF6B00?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/GENERATIVE_AI-FF006E?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/GENERATIVE_AI-FF006E?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LLMs-8338EC?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-8338EC?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/RAG_SYSTEMS-3A86FF?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-3A86FF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/PROMPT_ENGINEERING-FB5607?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FB5607?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/VECTOR_DATABASES-06D6A0?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector_Database-06D6A0?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/AI_&_ML-FFBE0B?style=for-the-badge&logo=tensorflow&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/BACKEND_DEVELOPMENT-00F7FF?style=for-the-badge&logo=fastapi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Machine_Learning-FFBE0B?style=for-the-badge"/>
 
 </div>
 
@@ -84,51 +102,17 @@
 
 <div align="center">
 
-<table>
+| Python | Frontend | Backend |
+|:---:|:---:|:---:|
+| Python | HTML | FastAPI |
+| OOP | CSS | REST APIs |
+| Problem Solving | JavaScript | Authentication |
 
-<tr>
-
-<td align="center" width="300">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
-
-### Python
-
-Backend Development
-AI Applications
-Problem Solving
-
-</td>
-
-<td align="center" width="300">
-
-<img src="https://img.icons8.com/color/480/sql.png" width="55"/>
-
-### SQL
-
-Database Design
-Advanced Queries
-SQLite / SQL Server
-Data Handling
-
-</td>
-
-<td align="center" width="300">
-
-<img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="55"/>
-
-### AI / ML & Gen AI
-
-LLMs
-RAG Systems
-Semantic Search
-Prompt Engineering
-
-</td>
-
-</tr>
-
-</table>
+| Database | AI | Tools |
+|:---:|:---:|:---:|
+| SQL | LLMs | Git |
+| SQLite | RAG | GitHub |
+| SQL Server | Prompt Engineering | VS Code |
 
 </div>
 
@@ -144,28 +128,34 @@ Prompt Engineering
 
 ## 🤖 AI RAG Chatbot
 
-* Semantic vector retrieval
-* LLM-based responses
-* SQLite memory system
-* RAG architecture
+- Semantic Search
+- Vector Database
+- LLM Integration
+- Chat Memory
+- Authentication
 
-**Tech:** Python • ChromaDB • Streamlit • LLM APIs
-
----
-
-## 🏋️ AI Fitness App
-
-* AI workout generator
-* Diet recommendation system
-* User tracking
+**Tech:** Python • FastAPI • ChromaDB • SQLite • Groq API
 
 ---
 
-## 🎨 AirCanvas
+## 🏋️ AI Fitness Assistant
 
-* Hand gesture control
-* OpenCV + MediaPipe
-* Real-time drawing system
+- AI Workout Planner
+- Diet Recommendation
+- BMI Calculator
+- Progress Tracking
+- AI Chatbot
+
+**Tech:** Python • Streamlit • SQL • LLM
+
+---
+
+## 🎨 AI Air Canvas
+
+- Hand Gesture Recognition
+- OpenCV
+- MediaPipe
+- Real-Time Drawing
 
 ---
 
@@ -181,12 +171,12 @@ Prompt Engineering
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://gnaneswar-portfolio91.netlify.app/">
-<img src="https://img.shields.io/badge/AI_PORTFOLIO-FF006E?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-FF006E?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -195,6 +185,8 @@ Prompt Engineering
 
 <div align="center">
 
-🔥 Build • Learn • Deploy • Repeat 🔥
+### 🚀 Full Stack Python Developer | Generative AI Engineer
+
+**Build • Learn • Innovate • Deploy • Repeat**
 
 </div>
